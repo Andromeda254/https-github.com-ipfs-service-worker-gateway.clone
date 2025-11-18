@@ -93,7 +93,7 @@
     "concurrently": "^9.1.2",
     "cross-env": "^7.0.3",
     "esbuild": "^0.25.6",
-    "glob": "^11.0.1",
+    "glob": "^12.0.0",
     "http-server": "^14.1.1",
     "it-all": "^3.0.7",
     "kubo": "^0.37.0",
